@@ -1,0 +1,32 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Excel temporary files
+~$*
+*.tmp
+
+# MySQL Workbench backup & logs
+*.mwb.bak
+*.log
+
+# Ignore database dumps (optional)
+*.sql
+*.dump
+
+# Optional: ignore Excel files if not version controlling them
+*.xlsx
+*.xls
+
+# Python-related if used for scripting
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter notebooks (if used)
+.ipynb_checkpoints/
+
+# VSCode (if using)
+.vscode/
